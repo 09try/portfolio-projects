@@ -1,3 +1,3 @@
 #### Portfolio projects
-- Halcon related questions using StackOverflow API [machine-vision-questions](https://machine-vision-questions.herokuapp.com/)
-- FreeCodeCamp Take Home Project using Wikipedia API [Wikipedia Viewer](https://freecodecamp-wikipedia-viewer.herokuapp.com/)
+- <a href="https://machine-vision-questions.herokuapp.com/" target="_blank">Halcon related questions using StackOverflow API</a>
+- <a href="https://freecodecamp-wikipedia-viewer.herokuapp.com/" target="_blank">FreeCodeCamp Take Home Project using Wikipedia API</a>
